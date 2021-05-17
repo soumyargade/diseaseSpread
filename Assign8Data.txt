@@ -1,0 +1,100 @@
+//////////////// Individuals  ////////////////
+Alice
+Benjamin
+Carol
+Naoise
+Valentina
+Jasna
+Sadie
+Plato
+Oswald
+Amanda
+Rohan
+Adil
+Emyr
+Marianne
+Anne
+John
+Beth
+Roger
+Richard
+Gwen
+Beatrix
+Harry
+Anushri
+Emma
+George
+Rudolf
+Nathan
+Daniel
+Rupert
+Hubert
+Bean
+Sabrina
+Sabine
+Henry
+Karl
+Bernie
+Sofie
+Jules
+Harold
+Misty
+Gregor
+Kristine
+Marianna
+
+//////////////// Friend list (friend1, friend2, edge-weight)////////////////
+Rudolf, Henry, 0.51
+Rudolf, Karl, 0.59
+Beth, Henry, 0.60
+Beth, John, 0.72
+John, George, 0.61
+George, Plato, 0.88
+Benjamin, Gregor, 0.70
+Benjamin, Harold, 0.73
+Bernie, Gregor, 0.74
+Anushri, Anne, 0.63
+Richard, Anne, 0.68
+Emyr, Anne, 0.58
+Sabrina, Anushri, 0.72
+Emyr, Rohan, 0.65
+Naoise, Rohan, 0.56
+Bean, Rohan, 0.70
+Anne, Sofie, 0.77
+Sofie, Sabine, 0.78
+George, Beatrix, 0.58
+Bernie, Carol, 0.69
+Plato, Sadie, 0.49
+Hubert, Sadie, 0.62
+Nathan, Sadie, 0.56
+Nathan, Hubert, 0.65
+Sadie, Roger, 0.50
+Adil, Jasna, 0.83
+Adil, Jules, 0.60
+Oswald, Jules, 0.55
+Jasna, Daniel, 0.83
+Daniel, Rupert, 0.51
+Daniel, Amanda, 0.69
+Valentina, Amanda, 0.70
+Adil, Kristine, 0.56
+Adil, Misty, 0.67
+Valentina, Emma, 0.60
+Marianne, Emma, 0.52
+Marianne, Alice, 0.72
+Marianne, Harry, 0.65
+Gwen, Harry, 0.67
+Gwen, Marianna, 0.00
+Harold, Oswald, 0.48
+Harold, Sadie, 0.58
+Sofie, Harold, 0.35
+Beth, Anushri, 0.77
+Jules, Gregor, 0.62
+Daniel, Alice, 0.33
+Harry, Rupert, 0.20
+Marianna, Rupert, 0.24
+Misty, Gwen, 0.58
+Rudolf, Jules, 0.76
+Gregor, Richard, 0.59
+Naoise, Roger, 0.72
+Rudolf, Rudolf, 0.91
+Karl, Jasna, 0.22
